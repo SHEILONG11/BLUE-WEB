@@ -1,4 +1,8 @@
 body{
-    background-color: blueviolet;
-    color: aquamarine;
+    background-color: black;
+    color:blueviolet;
+}
+li{
+    padding: 12px;
+    list-style-type: none;
 }
