@@ -1,9 +1,13 @@
 body{
     background-color: black;
-    color:blueviolet;
+    color:rgb(255, 255, 255);
 }
 li{
     padding: 12px;
     list-style-type: none;
+}
+
+a:hover{
+    color:aquamarine
 }
 

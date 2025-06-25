@@ -29,6 +29,12 @@ a{
     text-decoration: none;
 }
 
-a:hover{
+.roxo{
     color: blueviolet;
+}
+a:hover{
+    color:aquamarine ;
+}
+h1{
+    color: brown;
 }
