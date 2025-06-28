@@ -5,16 +5,7 @@ body{
 
 }
 
-footer img{
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    
-}
 
-footer a{
-    margin: 2px;
-}
 
 ul{
     display: flex;
@@ -24,17 +15,24 @@ ul{
     padding: 16px;
 }
 
-a{
+.header a{
     color: white;
     text-decoration: none;
 }
 
-.roxo{
+h2{
     color: blueviolet;
 }
-a:hover{
+.header a:hover{
     color:aquamarine ;
 }
+.roxo a:hover{
+    color: crimson;
+}
+.roxo a{
+    color: white;
+    text-decoration: none;
+}
 h1{
-    color: brown;
+    color: aquamarine;
 }

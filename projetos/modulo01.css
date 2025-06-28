@@ -2,6 +2,31 @@ body{
     background-color: black;
     color:rgb(255, 255, 255);
 }
+
+.container a{
+    color: crimson;
+    text-decoration: none;
+}
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+.list01{
+    display: flex;
+    text-align: left;
+    justify-content: left;
+}
+
+.list02{
+    display: flex;
+    text-align: right;
+    justify-content: right;
+}
+
+
 li{
     padding: 12px;
     list-style-type: none;
